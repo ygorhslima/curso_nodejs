@@ -2,7 +2,6 @@
   "name": "curso_nodejs",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,11 +19,7 @@
   "homepage": "https://github.com/ygorhslima/curso_nodejs#readme",
   "dependencies": {
     "express": "^5.1.0",
-    "express-handlebars": "^8.0.3",
-    "mysql2": "^3.15.2",
-    "sequelize": "^6.37.7"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
+    "mysql2": "^3.15.3",
+    "prompt-sync": "^4.2.0"
   }
 }
